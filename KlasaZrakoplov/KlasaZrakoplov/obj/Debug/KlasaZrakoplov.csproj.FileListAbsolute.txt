@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\bin\Debug\KlasaZrakoplov.exe.config
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\bin\Debug\KlasaZrakoplov.exe
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\bin\Debug\KlasaZrakoplov.pdb
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\obj\Debug\KlasaZrakoplov.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\obj\Debug\KlasaZrakoplov.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\obj\Debug\KlasaZrakoplov.exe
+C:\Users\unkno\source\repos\KlasaZrakoplov\KlasaZrakoplov\obj\Debug\KlasaZrakoplov.pdb
